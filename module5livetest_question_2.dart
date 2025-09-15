@@ -1,4 +1,6 @@
-//2.Create a Person class with a property name. Then create a Teacher class that inherits from Person and adds a property subject. Initialize a teacher object and print both the name and subject.
+//2.Create a Person class with a property name.
+// Then create a Teacher class that inherits from Person and adds a property subject.
+// Initialize a teacher object and print both the name and subject.
 
 class Person {
   String name;

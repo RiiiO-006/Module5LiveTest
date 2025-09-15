@@ -1,4 +1,7 @@
-//3.Create an abstract class named Shape with an abstract method area(). You have to create set and get method   to access the area(). Then create one subclass Circle with property radius that implements the area() method. Finally, create one circle object and print its area.
+//3.Create an abstract class named Shape with an abstract method area().
+// You have to create set and get method   to access the area().
+// Then create one subclass Circle with property radius that implements the area() method.
+// Finally, create one circle object and print its area.
 
 abstract class Shape {
 
