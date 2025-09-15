@@ -18,7 +18,7 @@ class Teacher extends Person {
 }
 
 void main() {
-  Teacher teacher = Teacher('Ridoy', 'Programming');
+  Teacher teacher = Teacher('Ridoy', 'CSE');
   teacher.showDetails();
 
 }
